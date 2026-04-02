@@ -1148,6 +1148,13 @@ TVB港剧,https://live.ottiptv.cc/yy/1456829119
 第十五集,https://c1.rrcdnbf3.com/video/xiyoujixuji/第15集/index.m3u8
 第十六集,https://c1.rrcdnbf3.com/video/xiyoujixuji/第16集/index.m3u8
 
+封神榜1989,#genre#
+第01集,https://hn.bfvvs.com/play/axkqXMze/index.m3u8
+第02集,https://hn.bfvvs.com/play/bmZRJ5Ed/index.m3u8
+第03集,https://hn.bfvvs.com/play/e31RW84b/index.m3u8
+第04集,https://hn.bfvvs.com/play/e9r64W8a/index.m3u8
+第05集,https://hn.bfvvs.com/play/av2qV1La/index.m3u8
+
 港台,#genre#
 凤凰中文,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0

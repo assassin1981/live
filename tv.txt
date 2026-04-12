@@ -1,5 +1,4 @@
-﻿邵氏经典,#genre#
-封神劫,https://hd.ijycnd.com/play/neg5Yjbw/index.m3u8
+邵氏经典,#genre#
 大杀四方,https://vod.guoluche.com/20231127/ImV0fYPO/index.m3u8
 洪拳大师,https://hn.bfvvs.com/play/Pdyk2PaQ/index.m3u8
 广东十虎与后五虎,https://hn.bfvvs.com/play/pen6RWe7/index.m3u8
@@ -31,10 +30,8 @@
 勾魂降头,https://hn.bfvvs.com/play/YaOrzLex/index.m3u8
 
 国产老电影,#genre#
-娇娇小姐,https://d.kstore.dev/download/7961/index.mp4
+轮播频道,https://d.kstore.dev/download/7961/index.mp4
 她俩和他俩(1979),https://d.kstore.dev/download/7961/talia1979.mp4
-16号病房(1983),https://vv.jisuzyv.com/play/xbo0BJzd/index.m3u8#https://play.subokk.com/play/9aADN9Pe/index.m3u8#https://v.gsuus.com/play/kazpvxmd/index.m3u8
-女局长的男朋友(1986),https://cdn.yddsha2.com/m3u87/share/4727737/4920099/20251104/115959/360/master.m3u8
 同归于尽(1993),https://cdn.yzzy31-play.com/20260101/10168_5d4a1850/index.m3u8
 黑炮事件(1989),https://play.maoyanplay.top/jqp/vYBOMnMS/index.m3u8#https://v1.qrssuv.com/wjv1/202308/19/ayeqWsXStH2/video/index.m3u8
 405谋杀案(1980),https://v1.qrssuv.com/wjv1/202308/19/QUuuD44pVS2/video/index.m3u8#https://v1.fentvoss.com/yyv1/202308/19/QUuuD44pVS2/video/index.m3u8

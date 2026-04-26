@@ -1,6 +1,4 @@
 邵氏经典,#genre#
-大杀四方,https://vod.guoluche.com/20231127/ImV0fYPO/index.m3u8
-洪拳大师,https://hn.bfvvs.com/play/Pdyk2PaQ/index.m3u8
 广东十虎与后五虎,https://hn.bfvvs.com/play/pen6RWe7/index.m3u8
 大海盗,https://hn.bfvvs.com/play/DbD9j5dl/index.m3u8
 中国超人,https://hn.bfvvs.com/play/lejO0yaj/index.m3u8
@@ -32,9 +30,6 @@
 国产老电影,#genre#
 轮播频道,https://d.kstore.dev/download/7961/index.mp4
 她俩和他俩(1979),https://d.kstore.dev/download/7961/talia1979.mp4
-同归于尽(1993),https://cdn.yzzy31-play.com/20260101/10168_5d4a1850/index.m3u8
-黑炮事件(1989),https://play.maoyanplay.top/jqp/vYBOMnMS/index.m3u8#https://v1.qrssuv.com/wjv1/202308/19/ayeqWsXStH2/video/index.m3u8
-405谋杀案(1980),https://v1.qrssuv.com/wjv1/202308/19/QUuuD44pVS2/video/index.m3u8#https://v1.fentvoss.com/yyv1/202308/19/QUuuD44pVS2/video/index.m3u8
 小二黑结婚(1964),https://tyyszywvod5.com/videos/202504/09/67d06fa43a1ad3c00c41ed6e/f735d4/index.m3u8#https://c1.rrcdnbf2.com/video/xiaoerheijiehun/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 阿龙浴血记(1986),https://yzzy.play-cdn2.com/20220428/16659_253371db/index.m3u8#https://v1.qrssuv.com/wjv1/202308/19/1xsNKP5z2h2/video/index.m3u8
 爱情与遗产(1980),https://v1.fentvoss.com/yyv1/202308/19/4sRCJxiun82/video/index.m3u8#https://v1.qrssuv.com/wjv1/202308/19/4sRCJxiun82/video/index.m3u8
